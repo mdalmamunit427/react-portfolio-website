@@ -1,4 +1,4 @@
-# react-portfolio-website-
+# react-portfolio-website
 
 In the project directory, you can run:
 
